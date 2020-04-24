@@ -1,4 +1,4 @@
 First commit
 Second commit
-pull
+remote pull
 Sixth commit
